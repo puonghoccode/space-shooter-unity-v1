@@ -1,0 +1,19 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.user
+*.userprefs
+
+# Visual Studio
+.vscode/
+.idea/
