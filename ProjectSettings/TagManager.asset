@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Projectile
+  - Star
+  - Asteroid
   layers:
   - Default
   - TransparentFX
@@ -41,6 +44,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3786431563
+    locked: 0
+  - name: Playground
+    uniqueID: 2530968831
+    locked: 0
+  - name: Panel
+    uniqueID: 2446646963
     locked: 0
   m_RenderingLayers:
   - Default
